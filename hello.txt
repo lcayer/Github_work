@@ -1,6 +1,5 @@
-hello GitHub
+Hello GitHub
 
+I am lcay£¡
 
-i am is lcay
-
-2018.02.23 add New line!
+2018.02.23 Add new line!
